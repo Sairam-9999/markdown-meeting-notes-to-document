@@ -21,6 +21,7 @@ Follow these steps **in order** before running anything:
 6. In Colab, click **File → Open notebook**
 7. Go to the **Upload** tab and upload:
     **markdown_to_gdocs.ipynb**
+8. Once the notebook opens, **follow all the steps in the notebook cells in order**
    
 ---
 
