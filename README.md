@@ -3,12 +3,12 @@
 This project converts structured **Markdown meeting notes (`.md`) into a well-formatted Google Doc** using the Google Docs API.  
 It is designed to preserve headings, bullet points, checkboxes, nesting, and mentions while producing clean, readable meeting documentation.
 
-> 📌 **Important:**  
+>  **Important:**  
 > To **download, run, and see the complete step-by-step implementation**, including authentication and execution, **refer to the provided Jupyter Notebook (`.ipynb`)**.  
 > All setup instructions and runnable cells are documented there.
 
 ---
-## 🚀 Getting Started (Do This First)
+##  Getting Started (Do This First)
 
 Follow these steps **in order** before running anything:
 
@@ -17,7 +17,7 @@ Follow these steps **in order** before running anything:
 3. Select **Download ZIP**
 4. **Extract** the downloaded ZIP file on your machine
 5. Open **Google Colab** in your browser  
-   👉 https://colab.research.google.com
+    https://colab.research.google.com
 6. In Colab, click **File → Open notebook**
 7. Go to the **Upload** tab and upload:
     **markdown_to_gdocs.ipynb**
