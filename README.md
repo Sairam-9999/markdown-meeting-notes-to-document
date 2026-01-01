@@ -28,5 +28,5 @@ It is designed to preserve headings, bullet points, checkboxes, nesting, and men
 ```text
 .
 ├── meeting_to_gdoc.ipynb        # Core conversion logic (Markdown → Google Docs) and Main runnable notebook (recommended entry point)
-├── meeting_notes.md          # Sample meeting notes input
-└── README.md                 # Project documentation
+├── meeting_notes.md             # Sample meeting notes input
+└── README.md                    # Project documentation
